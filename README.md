@@ -74,7 +74,8 @@ The project relies on various dependencies including the Flutter framework, Dio 
    - `package:flutter_bloc/flutter_bloc.dart`: Flutter package for implementing the Bloc pattern.
    - `package:dio/dio.dart`: Dart package for making HTTP requests.
 
-   ## Installation
+   
+## Installation
 
 Provide instructions on how to install your project. Include any necessary steps such as installing dependencies, configuring settings, etc.
 
@@ -87,6 +88,7 @@ cd your-project
 
 # Install dependencies
 flutter pub get
+```
 
 ## Screenshots
 
