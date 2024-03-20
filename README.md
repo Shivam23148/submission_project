@@ -92,5 +92,5 @@ flutter pub get
 
 ## Screenshots
 
-![Screenshot 1](/assets/screenshot/profile_screen.jpg)
-![Screenshot 2](/assets/screenshot/selection_screen.jpg)
+<img src="/assets/screenshot/profile_screen.jpg" alt="Screenshot 1" width="300">
+<img src="/assets/screenshot/selection_screen.jpg" alt="Screenshot 2" width="300">
